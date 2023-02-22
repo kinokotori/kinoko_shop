@@ -1,0 +1,16 @@
+{
+  "name": "kinoko_shop",
+  "version": "1.0.0",
+  "description": "a shop of online project",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "kinokotori",
+  "license": "ISC",
+  "dependencies": {
+    "uview-ui": "^2.0.31",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
+  }
+}
